@@ -1,0 +1,3 @@
+[submodule "SubmoduleRepository_Nikitin"]
+	path = SubmoduleRepository_Nikitin
+	url = git@github.com:alexandr-nikitin/SubmoduleRepository_Nikitin.git
